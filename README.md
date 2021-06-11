@@ -1,4 +1,5 @@
-# Business Fundamentals Project Repo
+# Put Your Monet Where Your Mouth Is
+## Comparing MoMA's holdings against art market data
 
 * [Project Proposal](https://github.com/caroshi/modulethree/blob/master/ProjectProposal.md)
 * [Project MVP](https://github.com/caroshi/modulethree/blob/master/MVP.md)
